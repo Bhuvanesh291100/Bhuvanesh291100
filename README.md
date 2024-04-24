@@ -56,12 +56,6 @@
 <a href="https://leetcode.com/BhuvanKolhe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="BhuvanKolhe" height="30" width="40" /></a>
 </p>
 
-## 📈 GitHub Stats
-<p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Bhuvanesh291100&show_icons=true&theme=radical" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhuvanesh291100&theme=radical" />
-</p>
-
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvanesh-kolhe/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bhuvanesh291100)
