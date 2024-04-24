@@ -28,6 +28,7 @@
   - Built live projects using HTML, CSS, JavaScript
 
 ## 🚀 Projects
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 ### E-Commerce Warranty System using NFTs
 ![NFT](https://github.com/Bhuvanesh291100/Bhuvanesh291100/blob/main/nft.gif)
 - Developed warranty verification system using decaying NFTs
